@@ -1,0 +1,53 @@
+.App {
+  border: 2px solid black;
+    width: 65%;
+    margin-left: 13%;
+    padding: 10px 50px 50px 50px;
+}
+.marge{
+  border:2px solid blue;
+  padding: 12px;
+  border-radius: 10px;
+  background: yellow;
+}
+
+h1{
+  background-color: red;
+  margin: 5px;
+  border:2px solid black;
+  border-radius: 4px;
+  
+  width: 90%;
+}
+.cut{
+  display: inline-block;
+    text-align: center;
+    width: 22%;
+    border: 2px solid blue;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+button{
+  padding: 5px;
+  background: aqua;
+}
+
+.inlineBlock{
+  display:inline-block;
+  width: 25%;
+}
+.footer{
+  border:2px solid blue;
+  margin-top: 10px;
+    border-radius: 10px;
+    background: pink;
+}
+
+.head{
+  list-style-type:none;
+}
+.head li{
+  display:inline;
+  margin: 24px;
+}
